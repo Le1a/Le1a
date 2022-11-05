@@ -4,14 +4,6 @@
 
 ##  Hey👋，I'am Le1a！  
   
-
-- 🏫 I am a student👦 majoring in cyberspace security at a university in Chengdu 🚀  
-  
-
-- 🔭 I love cybersecurity and am learning about Java 👨‍💻  
-  
-
-- 🌱 My hobby is playing games, such as LOL, NBA2KOL2 🎮  
   
 
 <br/>  
