@@ -1,17 +1,13 @@
-<div align="center">
-</div>  
-  
-
 ##  Hey👋，I'am Le1a！  
-
-<br/>  
-## Visitor Count
+- 🌱 Retired CTFer/Student
+- 🔭 Working at 219 Attack-Defense of ThreatBook(interning)
+- 🍔 Blog：https://le1a.github.io/
+</br>
 
 ![](https://profile-counter.glitch.me/Le1a/count.svg)
+ <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" />
+</p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![](https://raw.githubusercontent.com/Le1a/Le1a/output/github-contribution-grid-snake.svg)
