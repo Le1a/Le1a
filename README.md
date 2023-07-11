@@ -1,6 +1,6 @@
 ##  Hey👋，I'am Le1a！  
 - 🌱 Retired CTFer/Student
-- 🔭 Working at 219 Attack-Defense of ThreatBook(interning)
+- 🔭 interning
 - 🍔 Blog：https://le1a.github.io/
 </br>
 
