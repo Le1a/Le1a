@@ -10,4 +10,4 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" />
 </p>
 
-![](https://raw.githubusercontent.com/Le1a/Le1a/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Le1a/Le1a/main/assets/github-contribution-grid-snake.svg)
