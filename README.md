@@ -7,7 +7,7 @@
 - 🍔 Blog:https://le1a.github.io/
 
 </br>
-<img src="https://profile-counter.glitch.me/Le1a/count.svg" style="margin-left: 50px;" />
+![](https://profile-counter.glitch.me/Le1a/count.svg)
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true" /> 
