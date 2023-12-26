@@ -12,7 +12,7 @@
 
 <p align="center">
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true" />
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" />
 
