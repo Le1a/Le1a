@@ -2,27 +2,13 @@
 
 - 🌱 Retired CTFer/Student
 
-- 🔭 interning 
+- 🔭 interning
 
 - 🍔 Blog:https://le1a.github.io/
 
 </br>
-
-<style>
-.counter {
-  float: right;
-  margin-right: 50px;  
-}
-</style>
-
-<div class="counter">
-  !\[\]\(https://profile-counter.glitch.me/Le1a/count.svg) 
-</div>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show\_icons=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" />
-
+<p align="right">
+  <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
 </p>
+
+<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show\_icons=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" /> </p>
