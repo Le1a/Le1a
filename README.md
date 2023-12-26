@@ -18,4 +18,3 @@
 
 </p>
 
-![](https://raw.githubusercontent.com/Le1a/Le1a/main/assets/github-contribution-grid-snake.svg)
