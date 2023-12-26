@@ -7,8 +7,9 @@
 - 🍔 Blog:https://le1a.github.io/
 
 </br>
-<p align="right">
-  <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
-</p>
+<img src="https://profile-counter.glitch.me/Le1a/count.svg" style="margin-left: 20px;" />
 
-<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show\_icons=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" /> </p>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show\_icons=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" /> 
+</p>
