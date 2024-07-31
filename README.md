@@ -4,7 +4,7 @@
 
 - 🔭 interning
 
-- 🍔 Blog:https://le1a.github.io/
+- 🍔 Blog:https://le1a.ddns.net/
 
 </br>
 <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
