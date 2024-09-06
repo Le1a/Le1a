@@ -4,7 +4,7 @@
 
 - 🔭 Security Researcher
 
-- 🍔 Blog:https://le1a.ddns.net/
+- 🍔 Blog:https://le1a.github.io/
 
 </br>
 <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
