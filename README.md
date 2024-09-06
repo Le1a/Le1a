@@ -1,6 +1,6 @@
 ## Hey👋,I'am Le1a!
 
-- 🌱 Retired CTFer/Student
+- 🌱 Retired CTFer/~~Student~~
 
 - 🔭 interning
 
