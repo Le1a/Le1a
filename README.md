@@ -2,7 +2,7 @@
 
 - 🌱 Retired CTFer/~~Student~~
 
-- 🔭 interning
+- 🔭 Security Researcher
 
 - 🍔 Blog:https://le1a.ddns.net/
 
