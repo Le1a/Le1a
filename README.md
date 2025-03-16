@@ -16,4 +16,4 @@
 
 ### Contributions in the last year
 
-![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![github contribution grid snake animation](https://github.com/Le1a/Le1a/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
