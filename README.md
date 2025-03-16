@@ -13,3 +13,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" /> 
 </p>
+
+### Contributions in the last year
+
+![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
