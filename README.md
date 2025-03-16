@@ -14,6 +14,13 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" /> 
 </p>
 
+### Top Repositories
+
+
+<a href="https://github.com/Y4tacker/JavaSec">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=CVE-2023-33246&theme=vue&show_icons=true" />
+</a>
+
 ### Contributions in the last year
 
 ![github contribution grid snake animation](https://github.com/Le1a/Le1a/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
