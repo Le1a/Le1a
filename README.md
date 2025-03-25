@@ -16,11 +16,11 @@
 
 
 <a href="https://github.com/Le1a/CVE-2023-33246">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=CVE-2023-33246&theme=vue&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=CVE-2023-33246&theme=tokyonight&show_icons=true&cache_seconds=10" />
 </a>
 
 <a href="https://github.com/Le1a/LokiPool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=LokiPool&theme=vue&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=LokiPool&theme=tokyonight&show_icons=true&cache_seconds=10" />
 </a>
 
 
