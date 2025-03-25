@@ -9,7 +9,7 @@
 </br>
 <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le1a&layout=compact&theme=buefy&hide_border=true&exclude_repo=Le1a.github.io" /></a> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&exclude_repo=Le1a.github.io" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le1a&layout=compact&theme=buefy&hide_border=true&exclude_repo=Le1a.github.io" /></a> 
 | ------------- | ------------- |
 
 ### Top Repositories
