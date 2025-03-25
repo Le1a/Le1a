@@ -8,6 +8,10 @@
 
 </br>
 <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
+<code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="golang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>  
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Le1a's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le1a&layout=compact&theme=buefy&hide_border=true&exclude_repo=Le1a.github.io" /></a> 
 | ------------- | ------------- |
