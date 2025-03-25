@@ -9,10 +9,8 @@
 </br>
 <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Le1a" /> 
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le1a&layout=compact&theme=buefy&hide_border=true&exclude_repo=Le1a.github.io" /></a> 
+| ------------- | ------------- |
 
 ### Top Repositories
 
