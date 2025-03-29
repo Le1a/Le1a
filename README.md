@@ -6,6 +6,8 @@
 
 - 🍔 Blog:https://le1a.github.io/
 
+- 💌 Contact:le1a.github.io@gmai.com
+
 </br>
 <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
 <code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
