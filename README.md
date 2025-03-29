@@ -6,7 +6,7 @@
 
 - 🍔 Blog:https://le1a.github.io/
 
-- 💌 Contact:le1a.github.io@gmai.com
+- 💌 Contact:le1a.github.io@gmail.com
 
 </br>
 <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
