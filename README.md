@@ -10,6 +10,15 @@
 
 </br>
 <img src="https://profile-counter.glitch.me/Le1a/count.svg" />
+
+### MySpotify
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-three-phi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/313hrwrvtsfpf4gsafzdd5b7a7uu)
+</div>
+
+### MyStack
+
 <code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
