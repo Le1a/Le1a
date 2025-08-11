@@ -38,6 +38,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=LokiPool&theme=buefy&show_icons=true&cache_seconds=1" />
 </a>
 
+<a href="https://github.com/Le1a/JarLibsConsolidator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=JarLibsConsolidator&theme=buefy&show_icons=true&cache_seconds=1" />
+</a>
+
 
 
 
