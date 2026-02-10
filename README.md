@@ -1,50 +1,29 @@
-## Hey👋,I'am Le1a!
+# Hey 👋 I'm Le1a
 
-- 🌱 Retired CTFer/~~Student~~
+Retired CTFer · Security Researcher
 
-- 🔭 Security Researcher
+- Blog: https://le1a.github.io/
+- GitHub: https://github.com/Le1a
 
-- 🍔 Blog:https://le1a.github.io/
+---
 
-- 💌 Contact:le1a.github.io@gmail.com
+## Experience
+- Feb 2026 – Present: JD.com — Security Engineer
+- May 2023 – Jan 2026: ThreatBook — Security Researcher
 
-</br>
-<img src="https://profile-counter.glitch.me/Le1a/count.svg" />
-
-### MySpotify
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-three-phi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/313hrwrvtsfpf4gsafzdd5b7a7uu)
-</div>
-
-### MyStack
-
-<code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="golang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>  
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Le1a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Le1a's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le1a&layout=compact&theme=buefy&hide_border=true&exclude_repo=Le1a.github.io" /></a> 
-| ------------- | ------------- |
-
-### Top Repositories
-
-
-<a href="https://github.com/Le1a/CVE-2023-33246">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=CVE-2023-33246&theme=buefy&show_icons=true&cache_seconds=1" />
-</a>
-
-<a href="https://github.com/Le1a/LokiPool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=LokiPool&theme=buefy&show_icons=true&cache_seconds=1" />
-</a>
-
-<a href="https://github.com/Le1a/JarLibsConsolidator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Le1a&repo=JarLibsConsolidator&theme=buefy&show_icons=true&cache_seconds=1" />
-</a>
-
-
-
-
-### Contributions in the last year
-
-![github contribution grid snake animation](https://github.com/Le1a/Le1a/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+## Selected CVEs
+| CVE | Product | Type |
+| --- | --- | --- |
+| CVE-2023-34747 | UJCMS | File Upload |
+| CVE-2024-45627 | Apache Linkis | File Read |
+| CVE-2025-25347 | QingLong Panel | RCE |
+| CVE-2025-28044 | ECShop | RCE |
+| CVE-2025-48999 | DataEase | RCE |
+| CVE-2025-49001 | DataEase | Auth Bypass |
+| CVE-2025-49002 | DataEase | RCE |
+| CVE-2025-6507 | h2o-3 | File Read & RCE |
+| CVE-2025-6544 | h2o-3 | File Read & RCE |
+| CVE-2025-53004 | DataEase | RCE |
+| CVE-2025-53005 | DataEase | RCE |
+| CVE-2025-57773 | DataEase | File Write |
+| CVE-2025-29847 | Apache Linkis | File Read |
